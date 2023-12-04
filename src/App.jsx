@@ -1,11 +1,11 @@
 import { ChakraProvider } from '@chakra-ui/react'
 import Layout from './Layout'
-function App() {
 
+function App() {
   return (
-    <ChakraProvider>
-      <Layout/>
-    </ChakraProvider> 
+    <ChakraProvider >
+      <Layout />
+    </ChakraProvider>
   )
 }
 
